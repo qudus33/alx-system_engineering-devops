@@ -1,0 +1,2 @@
+#!/bin/bash
+ls -a | grep "^[A-Z]" | xargs mv -t /tmp/u
