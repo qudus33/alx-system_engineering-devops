@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -lAt | head -n 10
+ls -At | head -n 10
